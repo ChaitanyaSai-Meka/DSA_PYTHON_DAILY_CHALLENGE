@@ -1,67 +1,64 @@
-# 🐍 LeetCode Daily Challenge – Python Solutions
+🐍 LeetCode Daily Challenge Solutions in Python
 
-This repository contains all the **LeetCode Daily Challenge Problems** I’ve solved using Python.  
-Each file in this repo includes:
+This repository is dedicated to solving **LeetCode Daily Challenge Problems** using **Python**.  
+Each file includes:
 
-- 📌 The full problem description (as comments)  
-- ✅ A clean and efficient Python solution  
-- 🧠 Time and space complexity  
-- 📚 Any formula or concept used  
+- 📌 The **problem description** written as comments.
+- ✅ A **clean and efficient Python solution**.
+- 🧠 **Time and space complexity** for the solution.
+- 📚 Any **formula or approach** used to solve the problem.
 
 ---
 
-## 📂 File Structure
+📂 Repository Structure
 
-Each Python file follows this format:
+Each Python file in this repository follows this format:
 
-```python
-# [Problem Number]. [Problem Name]
+- # Problem Number and Name  
+- # Problem description  
+- # Input format  
+- # Output format  
+- # Examples and constraints  
+- ✅ Python solution  
+- 💡 Time and space complexity  
+- 💭 Topic/formula used
 
-'''QUESTION'''
-# Problem description...
+---
 
-'''Example-1'''
-# Input:
-# Output:
-# Explanation:
+✅ Problems Done Till Now
 
-'''Constraints'''
-# ...
+| No. | Problem Title     | Date        |
+|-----|-------------------|-------------|
+| 1   | 135. Candy         | 1 June 2025 |
+| 2   | (Add next here...) | ...         |
 
-'''SOLUTION'''
-# Python solution
+(This list will grow as I solve more daily challenges.)
 
-'''💡💡💡💡💡'''
-# Topics / Formula used
-# Time Complexity:
-# Space Complexity:
-```
+---
 
-###✅ Problems Done So Far
-No.	Problem Title	Date
-1	135. Candy	1 June 2025
-2	[Add here as you go...]	...
+📌 Note
 
-(This list will be updated as I solve more daily challenges)
+- This repository is for **tracking daily LeetCode challenges**, not general DSA practice.
+- Each problem is solved on the same day it's posted.
+- More problems will be added **daily**.
+- Feel free to **fork** or **⭐star** this repo if you find it helpful!
 
-###📌 Note
-This is not a practice repo — it's a daily tracker of actual LeetCode daily challenges I’ve solved.
-Each file is standalone and structured for quick review and easy understanding.
+---
 
-Feel free to ⭐ the repo or fork it if you find it helpful!
+👨‍💻 Author
 
-###👨‍💻 Author
-Chaitanya Sai Meka
-B.Tech 2nd Year @ Newton School of Technology
-Focused on consistency, clarity, and growth through daily DSA.
+- Chaitanya  
+- B.Tech 2nd Year @ Newton School of Technology
 
-##🌐 Socials
-🔗 LinkedIn: linkedin.com/in/your-linkedin
+---
 
-🧩 LeetCode: leetcode.com/your-leetcode
+💻 Socials
 
-📷 Instagram: @your_instagram
+- 🔗 LinkedIn: [https://www.linkedin.com/in/your-linkedin](https://www.linkedin.com/in/your-linkedin)  
+- 🧩 LeetCode: [https://leetcode.com/your-leetcode](https://leetcode.com/your-leetcode)  
+- 📷 Instagram: [https://instagram.com/your_instagram](https://instagram.com/your_instagram)
+
+---
 
 Thank you for visiting!
-Keep grinding. One day, one problem, every day. 🚀🐍
-
+Keep grinding. One problem, one day, every day. 🚀🐍
