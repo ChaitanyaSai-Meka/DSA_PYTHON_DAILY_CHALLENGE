@@ -68,9 +68,9 @@ Each Python file follows this format:
 
 💻 Socials
 
-- 🔗 LinkedIn: [https://www.linkedin.com/in/your-linkedin](https://www.linkedin.com/in/your-linkedin)  
-- 🧩 LeetCode: [https://leetcode.com/your-leetcode](https://leetcode.com/your-leetcode)  
-- 📷 Instagram: [https://instagram.com/your_instagram](https://instagram.com/your_instagram)
+- 🔗 LinkedIn: [LINKEDIN](https://www.linkedin.com/in/chaitanya-sai-meka/)  
+- 🧩 LeetCode: [LEETCODE](https://leetcode.com/u/chaitanyasai_meka/)  
+- 📷 Instagram: [INSTAGRAM](https://www.instagram.com/chaitanyasai_meka/)
 
 ---
 
