@@ -61,7 +61,7 @@ Each Python file follows this format:
 
 👨‍💻 Author
 
-- Chaitanya  
+- Chaitanya Sai Meka
 - B.Tech 2nd Year @ Newton School of Technology
 
 ---
