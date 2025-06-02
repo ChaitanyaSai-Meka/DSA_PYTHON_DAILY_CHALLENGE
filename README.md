@@ -41,10 +41,10 @@ Each Python file follows this format:
 
 ✅ Problems Done Till Now
 
-| No. | Problem Title     | Date        |
-|-----|-------------------|-------------|
-| 1   | 135. Candy         | 1 June 2025 |
-| 2   | (Add next here...) | ...         |
+| No. | Problem Title                                      | Date        |
+|-----|----------------------------------------------------|-------------|
+| 1   | 2929. Distribute Candies Among Children II         | 1 June 2025 |
+| 2   | 135. Candy                                         | 2 June 2025 |
 
 (This list will grow as I solve more daily challenges.)
 
@@ -55,7 +55,7 @@ Each Python file follows this format:
 - This repository is for **tracking daily LeetCode challenges**, not general DSA practice.
 - Each problem is solved on the same day it's posted.
 - More problems will be added **daily**.
-- Feel free to **fork** or **⭐star** this repo if you find it helpful!
+- Feel free to **fork** or **⭐ star** this repo if you find it helpful!
 
 ---
 
