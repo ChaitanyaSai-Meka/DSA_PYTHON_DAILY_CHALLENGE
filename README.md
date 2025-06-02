@@ -10,7 +10,7 @@ Each file in this repo includes:
 
 ---
 
-## 📂 Repository Structure
+## 📂 File Structure
 
 Each Python file follows this format:
 
