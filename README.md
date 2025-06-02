@@ -43,8 +43,8 @@ Each Python file follows this format:
 
 | No. | Problem Title                                      | Date        |
 |-----|----------------------------------------------------|-------------|
-| 1   | 2929. Distribute Candies Among Children II         | 1 June 2025 |
-| 2   | [135. Candy](https://leetcode.com/problems/candy/?envType=daily-question&envId=2025-06-02)| 2 June 2025 |
+| 1   | [2929. Distribute Candies Among Children II](https://leetcode.com/problems/distribute-candies-among-children-ii/)| 1 June 2025 |
+| 2   | [135. Candy](https://leetcode.com/problems/candy/)| 2 June 2025 |
 
 (This list will grow as I solve more daily challenges.)
 
