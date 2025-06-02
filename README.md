@@ -10,18 +10,32 @@ Each file includes:
 
 ---
 
-📂 Repository Structure
+## 📂 File Structure
 
-Each Python file in this repository follows this format:
+Each Python file follows this format:
 
-- # Problem Number and Name  
-- # Problem description  
-- # Input format  
-- # Output format  
-- # Examples and constraints  
-- ✅ Python solution  
-- 💡 Time and space complexity  
-- 💭 Topic/formula used
+```python
+# [Problem Number]. [Problem Name]
+
+'''QUESTION'''
+# Problem description...
+
+'''Example-1'''
+# Input:
+# Output:
+# Explanation:
+
+'''Constraints'''
+# ...
+
+'''SOLUTION'''
+# Python solution
+
+'''💡💡💡💡💡'''
+# Topics / Formula used
+# Time Complexity:
+# Space Complexity:
+```
 
 ---
 
