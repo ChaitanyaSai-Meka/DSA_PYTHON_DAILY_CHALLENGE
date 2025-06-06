@@ -47,6 +47,7 @@ Each Python file follows this format:
 | 2   | [135. Candy](https://leetcode.com/problems/candy/)| 2 June 2025 |
 | 3   | [1298. Maximum Candies You Can Get from Boxes](https://leetcode.com/problems/maximum-candies-you-can-get-from-boxes/)| 3 June 2025 |
 | 4   | [3403. Find the Lexicographically Largest String From the Box I](https://leetcode.com/problems/find-the-lexicographically-largest-string-from-the-box-i/)| 4 June 2025 |
+| 5   | [1061. Lexicographically Smallest Equivalent String](https://leetcode.com/problems/lexicographically-smallest-equivalent-string/)| 5 June 2025 |
 
 (This list will grow as I solve more daily challenges.)
 
