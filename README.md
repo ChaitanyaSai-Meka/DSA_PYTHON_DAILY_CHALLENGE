@@ -51,7 +51,8 @@ Each Python file follows this format:
 | 6   | [2434. Using a Robot to Print the Lexicographically Smallest String](https://leetcode.com/problems/using-a-robot-to-print-the-lexicographically-smallest-string/)| 6 June 2025 |
 | 7   | [3170. Lexicographically Minimum String After Removing Stars](https://leetcode.com/problems/lexicographically-minimum-string-after-removing-stars/)| 7 June 2025 |
 | 8   | [386. Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers/)| 8 June 2025 |
-| 8   | [440. K-th Smallest in Lexicographical Order](https://leetcode.com/problems/k-th-smallest-in-lexicographical-order/)| 9 June 2025 |
+| 9   | [440. K-th Smallest in Lexicographical Order](https://leetcode.com/problems/k-th-smallest-in-lexicographical-order/)| 9 June 2025 |
+| 10  | [3442. Maximum Difference Between Even and Odd Frequency I](https://leetcode.com/problems/maximum-difference-between-even-and-odd-frequency-i/)| 10 June 2025 |
 
 (This list will grow as I solve more daily challenges.)
 
