@@ -43,15 +43,15 @@ Each Python file follows this format:
 
 | No. | Problem Title                                      | Date        |
 |-----|----------------------------------------------------|-------------|
-| 1   | [2929. Distribute Candies Among Children II](https://leetcode.com/problems/distribute-candies-among-children-ii/)| 1 June 2025 |
-| 2   | [135. Candy](https://leetcode.com/problems/candy/)| 2 June 2025 |
-| 3   | [1298. Maximum Candies You Can Get from Boxes](https://leetcode.com/problems/maximum-candies-you-can-get-from-boxes/)| 3 June 2025 |
-| 4   | [3403. Find the Lexicographically Largest String From the Box I](https://leetcode.com/problems/find-the-lexicographically-largest-string-from-the-box-i/)| 4 June 2025 |
-| 5   | [1061. Lexicographically Smallest Equivalent String](https://leetcode.com/problems/lexicographically-smallest-equivalent-string/)| 5 June 2025 |
-| 6   | [2434. Using a Robot to Print the Lexicographically Smallest String](https://leetcode.com/problems/using-a-robot-to-print-the-lexicographically-smallest-string/)| 6 June 2025 |
-| 7   | [3170. Lexicographically Minimum String After Removing Stars](https://leetcode.com/problems/lexicographically-minimum-string-after-removing-stars/)| 7 June 2025 |
-| 8   | [386. Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers/)| 8 June 2025 |
-| 9   | [440. K-th Smallest in Lexicographical Order](https://leetcode.com/problems/k-th-smallest-in-lexicographical-order/)| 9 June 2025 |
+| 1   | [2929. Distribute Candies Among Children II](https://leetcode.com/problems/distribute-candies-among-children-ii/)| 01 June 2025 |
+| 2   | [135. Candy](https://leetcode.com/problems/candy/)| 02 June 2025 |
+| 3   | [1298. Maximum Candies You Can Get from Boxes](https://leetcode.com/problems/maximum-candies-you-can-get-from-boxes/)| 03 June 2025 |
+| 4   | [3403. Find the Lexicographically Largest String From the Box I](https://leetcode.com/problems/find-the-lexicographically-largest-string-from-the-box-i/)| 04 June 2025 |
+| 5   | [1061. Lexicographically Smallest Equivalent String](https://leetcode.com/problems/lexicographically-smallest-equivalent-string/)| 05 June 2025 |
+| 6   | [2434. Using a Robot to Print the Lexicographically Smallest String](https://leetcode.com/problems/using-a-robot-to-print-the-lexicographically-smallest-string/)| 06 June 2025 |
+| 7   | [3170. Lexicographically Minimum String After Removing Stars](https://leetcode.com/problems/lexicographically-minimum-string-after-removing-stars/)| 07 June 2025 |
+| 8   | [386. Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers/)| 08 June 2025 |
+| 9   | [440. K-th Smallest in Lexicographical Order](https://leetcode.com/problems/k-th-smallest-in-lexicographical-order/)| 09 June 2025 |
 | 10  | [3442. Maximum Difference Between Even and Odd Frequency I](https://leetcode.com/problems/maximum-difference-between-even-and-odd-frequency-i/)| 10 June 2025 |
 | 11  | (*)[3445. Maximum Difference Between Even and Odd Frequency II](https://leetcode.com/problems/maximum-difference-between-even-and-odd-frequency-ii/)| 11 June 2025 |
 | 12  | [3423. Maximum Difference Between Adjacent Elements in a Circular Array](https://leetcode.com/problems/maximum-difference-between-adjacent-elements-in-a-circular-array/)| 12 June 2025 |
