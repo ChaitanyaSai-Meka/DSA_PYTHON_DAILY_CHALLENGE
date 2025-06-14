@@ -56,6 +56,7 @@ Each Python file follows this format:
 | 11  | (*)[3445. Maximum Difference Between Even and Odd Frequency II](https://leetcode.com/problems/maximum-difference-between-even-and-odd-frequency-ii/)| 11 June 2025 |
 | 12  | [3423. Maximum Difference Between Adjacent Elements in a Circular Array](https://leetcode.com/problems/maximum-difference-between-adjacent-elements-in-a-circular-array/)| 12 June 2025 |
 | 13  | [2616. Minimize the Maximum Difference of Pairs](https://leetcode.com/problems/minimize-the-maximum-difference-of-pairs/)| 13 June 2025 |
+| 14  | [2566. Maximum Difference by Remapping a Digit](https://leetcode.com/problems/maximum-difference-by-remapping-a-digit/)| 14 June 2025 |
 
 (This list will grow as I solve more daily challenges.)
 
