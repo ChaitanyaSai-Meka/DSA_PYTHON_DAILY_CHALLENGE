@@ -58,7 +58,7 @@ Each Python file follows this format:
 | 13  | [2616. Minimize the Maximum Difference of Pairs](https://leetcode.com/problems/minimize-the-maximum-difference-of-pairs/)| 13 June 2025 |
 | 14  | [2566. Maximum Difference by Remapping a Digit](https://leetcode.com/problems/maximum-difference-by-remapping-a-digit/)| 14 June 2025 |
 | 15  | [1432. Max Difference You Can Get From Changing an Integer](https://leetcode.com/problems/max-difference-you-can-get-from-changing-an-integer/)| 15 June 2025 |
-| 15  | [2016. Maximum Difference Between Increasing Elements](https://leetcode.com/problems/maximum-difference-between-increasing-elements/)| 16 June 2025 |
+| 16  | [2016. Maximum Difference Between Increasing Elements](https://leetcode.com/problems/maximum-difference-between-increasing-elements/)| 16 June 2025 |
 
 (This list will grow as I solve more daily challenges.)
 
