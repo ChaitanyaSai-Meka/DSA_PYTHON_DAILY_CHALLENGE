@@ -60,6 +60,7 @@ Each Python file follows this format:
 | 15  | [1432. Max Difference You Can Get From Changing an Integer](https://leetcode.com/problems/max-difference-you-can-get-from-changing-an-integer/)| 15 June 2025 |
 | 16  | [2016. Maximum Difference Between Increasing Elements](https://leetcode.com/problems/maximum-difference-between-increasing-elements/)| 16 June 2025 |
 | 17  | [3405. Count the Number of Arrays with K Matching Adjacent Elements](https://leetcode.com/problems/count-the-number-of-arrays-with-k-matching-adjacent-elements/)| 17 June 2025 |
+| 18  | [2966. Divide Array Into Arrays With Max Difference](https://leetcode.com/problems/divide-array-into-arrays-with-max-difference/)| 18 June 2025 |
 
 (This list will grow as I solve more daily challenges.)
 
