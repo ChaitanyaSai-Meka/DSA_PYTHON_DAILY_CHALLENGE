@@ -63,6 +63,7 @@ Each Python file follows this format:
 | 18  | [2966. Divide Array Into Arrays With Max Difference](https://leetcode.com/problems/divide-array-into-arrays-with-max-difference/)| 18 June 2025 |
 | 19  | [2294. Partition Array Such That Maximum Difference Is K](https://leetcode.com/problems/partition-array-such-that-maximum-difference-is-k/)| 19 June 2025 |
 | 20  | [3443. Maximum Manhattan Distance After K Changes](https://leetcode.com/problems/maximum-manhattan-distance-after-k-changes/)| 20 June 2025 |
+| 21  | [3085. Minimum Deletions to Make String K-Special](https://leetcode.com/problems/minimum-deletions-to-make-string-k-special/)| 21 June 2025 |
 
 (This list will grow as I solve more daily challenges.)
 
