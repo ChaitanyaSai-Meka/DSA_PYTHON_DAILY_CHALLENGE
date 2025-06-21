@@ -27,22 +27,19 @@
 # word consists only of lowercase English letters.
 
 '''SOLUTION'''
-from collections import Counter
-import math
-
 class Solution:
     def minimumDeletions(self, word: str, k: int) -> int:
-        freqs = list(Counter(word).values())
-        ans = math.inf
-        for i in range(0, max(freqs)+1):
+        ans = float('inf')
+        count = collections.Counter(word)
+
+        for i in count.values():
             dele = 0
-            for f in freqs:
-                if f < i:
-                    dele += f
-                elif f > i + k:
-                    dele += f - (i + k)
+            for j in count.values():
+                if j < i:
+                    dele += j
+                else:
+                    dele += max(0, j - (i + k))
             ans = min(ans, dele)
-        
         return ans
 
 '''💡💡💡💡💡'''
