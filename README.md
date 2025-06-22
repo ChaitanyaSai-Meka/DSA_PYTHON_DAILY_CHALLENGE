@@ -64,6 +64,7 @@ Each Python file follows this format:
 | 19  | [2294. Partition Array Such That Maximum Difference Is K](https://leetcode.com/problems/partition-array-such-that-maximum-difference-is-k/)| 19 June 2025 |
 | 20  | [3443. Maximum Manhattan Distance After K Changes](https://leetcode.com/problems/maximum-manhattan-distance-after-k-changes/)| 20 June 2025 |
 | 21  | [3085. Minimum Deletions to Make String K-Special](https://leetcode.com/problems/minimum-deletions-to-make-string-k-special/)| 21 June 2025 |
+| 22  | [2138. Divide a String Into Groups of Size k](https://leetcode.com/problems/divide-a-string-into-groups-of-size-k/)| 22 June 2025 |
 
 (This list will grow as I solve more daily challenges.)
 
