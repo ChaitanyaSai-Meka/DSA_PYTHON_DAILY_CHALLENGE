@@ -68,6 +68,7 @@ Each Python file follows this format:
 | 23  | (*)[2081. Sum of k-Mirror Numbers](https://leetcode.com/problems/sum-of-k-mirror-numbers/)| 23 June 2025 |
 | 24  | [2200. Find All K-Distant Indices in an Array](https://leetcode.com/problems/find-all-k-distant-indices-in-an-array/)| 24 June 2025 |
 | 25  | (*)[2040. Kth Smallest Product of Two Sorted Arrays](https://leetcode.com/problems/kth-smallest-product-of-two-sorted-arrays/)| 25 June 2025 |
+| 26  | [2311. Longest Binary Subsequence Less Than or Equal to K](https://leetcode.com/problems/longest-binary-subsequence-less-than-or-equal-to-k/)| 26 June 2025 |
 
 (This list will grow as I solve more daily challenges.)
 
