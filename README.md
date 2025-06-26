@@ -67,6 +67,7 @@ Each Python file follows this format:
 | 22  | [2138. Divide a String Into Groups of Size k](https://leetcode.com/problems/divide-a-string-into-groups-of-size-k/)| 22 June 2025 |
 | 23  | (*)[2081. Sum of k-Mirror Numbers](https://leetcode.com/problems/sum-of-k-mirror-numbers/)| 23 June 2025 |
 | 24  | [2200. Find All K-Distant Indices in an Array](https://leetcode.com/problems/find-all-k-distant-indices-in-an-array/)| 24 June 2025 |
+| 25  | [2040. Kth Smallest Product of Two Sorted Arrays](https://leetcode.com/problems/kth-smallest-product-of-two-sorted-arrays/)| 25 June 2025 |
 
 (This list will grow as I solve more daily challenges.)
 
