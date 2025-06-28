@@ -18,7 +18,7 @@
 # Output: "b"
 # Explanation: The longest subsequence repeated 2 times is "b".
 
-'''Example-2'''
+'''Example-3'''
 # Input: s = "ab", k = 2
 # Output: ""
 # Explanation: There is no subsequence repeated 2 times. Empty string is returned.
