@@ -71,6 +71,7 @@ Each Python file follows this format:
 | 26  | [2311. Longest Binary Subsequence Less Than or Equal to K](https://leetcode.com/problems/longest-binary-subsequence-less-than-or-equal-to-k/)| 26 June 2025 |
 | 27  | [2014. Longest Subsequence Repeated k Times](https://leetcode.com/problems/longest-subsequence-repeated-k-times/)| 27 June 2025 |
 | 28  | [2099. Find Subsequence of Length K With the Largest Sum](https://leetcode.com/problems/find-subsequence-of-length-k-with-the-largest-sum/)| 28 June 2025 |
+| 29  | [1498. Number of Subsequences That Satisfy the Given Sum Condition](https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/)| 29 June 2025 |
 
 (This list will grow as I solve more daily challenges.)
 
