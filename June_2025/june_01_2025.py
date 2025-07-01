@@ -32,5 +32,5 @@ class Solution:
 
 '''💡💡💡💡💡'''
 # Formula: Bounded Stars and Bars with Inclusion-Exclusion
-# Time Complexity: O(1) (Constant time due to direct binomial coefficient computation)
-# Space Complexity: O(1) (Constant space usage)
+# Time Complexity: O(1)
+# Space Complexity: O(1)
