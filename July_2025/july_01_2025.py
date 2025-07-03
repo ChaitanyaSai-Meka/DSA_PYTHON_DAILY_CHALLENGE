@@ -18,7 +18,7 @@
 # Explanation:
 # The only possible string is "abcd".
 
-'''Example-2'''
+'''Example-3'''
 # Input: word = "aaaa"
 # Output: 4
 
@@ -36,6 +36,6 @@ class Solution:
         return c
 
 '''💡💡💡💡💡'''
-# Formula: Counts original string plus number of consecutive identical character pairs
+# Topics Used: Counts original string plus number of consecutive identical character pairs
 # Time Complexity: O(n)
 # Space Complexity: O(1)
