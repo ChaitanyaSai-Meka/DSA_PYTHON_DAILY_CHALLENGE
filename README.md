@@ -74,7 +74,8 @@ Each Python file follows this format:
 | 29  | [1498. Number of Subsequences That Satisfy the Given Sum Condition](https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/)| 29 June 2025 |
 | 30  | [594. Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence/)| 30 June 2025 |
 | 31  | [3330. Find the Original Typed String I](https://leetcode.com/problems/find-the-original-typed-string-i/)| 01 July 2025 |
-| 33  | [3304. Find the K-th Character in String Game I](https://leetcode.com/problems/find-the-k-th-character-in-string-game-i/)| 03 July 2025 |
+| 32  | [3304. Find the K-th Character in String Game I](https://leetcode.com/problems/find-the-k-th-character-in-string-game-i/)| 03 July 2025 |
+| 33  | [1394. Find Lucky Integer in an Array](https://leetcode.com/problems/find-lucky-integer-in-an-array/)| 05 July 2025 |
 
 (This list will grow as I solve more daily challenges.)
 
