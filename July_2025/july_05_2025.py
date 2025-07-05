@@ -1,41 +1,42 @@
 # 1394. Find Lucky Integer in an Array
 
 '''QUESTION'''
-# Alice and Bob are playing a game. Initially, Alice has a string word = "a".
-# You are given a positive integer k.
-# Now Bob will ask Alice to perform the following operation forever:
-# Generate a new string by changing each character in word to its next character in the English alphabet, and append it to the original word.
-# For example, performing the operation on "c" generates "cd" and performing the operation on "zb" generates "zbac".
-# Return the value of the kth character in word, after enough operations have been done for word to have at least k characters.
-# Note that the character 'z' can be changed to 'a' in the operation.
+# Given an array of integers arr, a lucky integer is an integer that has a frequency in the array equal to its value.
+# Return the largest lucky integer in the array. If there is no lucky integer return -1.
 
 '''Example-1'''
-# Input: k = 5
-# Output: "b"
-# Explanation:
-# Initially, word = "a". We need to do the operation three times:
-# Generated string is "b", word becomes "ab".
-# Generated string is "bc", word becomes "abbc".
-# Generated string is "bccd", word becomes "abbcbccd".
+# Input: arr = [2,2,3,4]
+# Output: 2
+# Explanation: The only lucky number in the array is 2 because frequency[2] == 2.
 
 '''Example-2'''
-# Input: k = 10
-# Output: "c"
+# Input: arr = [1,2,2,3,3,3]
+# Output: 3
+# Explanation: 1, 2 and 3 are all lucky numbers, return the largest of them.
+
+'''Example-3'''
+# Input: arr = [2,2,2,3,3]
+# Output: -1
+# Explanation: There are no lucky numbers in the array.
 
 '''Constraints:'''
-# 1 <= k <= 500
+# 1 <= arr.length <= 500
+# 1 <= arr[i] <= 500
 
 '''SOLUTION'''
+from collections import Counter
 class Solution:
-    def kthCharacter(self, k: int) -> str:
-        s="a"
-        while(k>len(s)):
-            n=len(s)
-            for i in range(n): 
-                s+=chr(ord(s[i])+1)
-        return s[k-1] 
+    def findLucky(self, arr: List[int]) -> int:
+        freq = Counter(arr)
+        lucky = -1
+
+        for num, count in freq.items():
+            if num == count:
+                lucky = max(lucky, num)
+
+        return lucky
 
 '''💡💡💡💡💡'''
-# Topic Used: String manipulation and iterative character transformation
-# Time Complexity: O(log k * k)
-# Space Complexity: O(k)
+# Topic Used: Hash Map (collections.Counter), Iteration
+# Time Complexity: O(n)
+# Space Complexity: O(n)
